@@ -1,0 +1,18 @@
+
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.env.*
+
+# Generated application data
+**/memory.txt
+**/secure_memory.json
+**/audit_log.jsonl
+**/sent_emails.txt
+**/hospital.db
+
+# Local evidence and recordings
+evidence/
+*.mp4

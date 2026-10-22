@@ -1,0 +1,27 @@
+
+DOCUMENT ID: HOSP-MAINT-001
+TITLE: ICU Ventilator Maintenance Procedure
+DEPARTMENT: Intensive Care Unit
+EQUIPMENT: Ventilator
+CLASSIFICATION: Synthetic Training Data
+
+PURPOSE:
+This document describes a fictional maintenance workflow for
+hospital ventilators used in a cybersecurity training simulation.
+
+MAINTENANCE PROCEDURE:
+1. Notify the biomedical engineering team.
+2. Mark the equipment as unavailable for clinical use.
+3. Review the simulated equipment maintenance history.
+4. Assign the maintenance ticket to an authorized technician.
+5. Record the completed maintenance activity.
+6. Update the equipment status after verification.
+
+SECURITY POLICY:
+Only authorized maintenance staff may update equipment records.
+External sharing of maintenance reports requires approval.
+All maintenance actions must be logged.
+
+NOTE:
+This document is fictional and must not be used as a real
+medical equipment maintenance procedure.

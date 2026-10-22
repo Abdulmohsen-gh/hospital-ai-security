@@ -1,0 +1,27 @@
+
+DOCUMENT ID: HOSP-SEC-002
+TITLE: Hospital Equipment Information Security Policy
+CLASSIFICATION: Synthetic Training Data
+
+ACCESS CONTROL:
+Hospital equipment information is accessible only to
+authorized personnel.
+
+ROLE DEFINITIONS:
+Viewer: Can read equipment and maintenance records.
+Technician: Can read records and submit maintenance updates.
+Manager: Can review maintenance reports and approve email drafts.
+
+EMAIL POLICY:
+Maintenance information must not be shared with unapproved
+external recipients.
+
+AUDIT LOGGING:
+All equipment changes, email requests, approvals and denials
+must be recorded in the audit log.
+
+TENANT ISOLATION:
+Each hospital must access only its own equipment records.
+
+NOTE:
+All records and policies are fictional training examples.
